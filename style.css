@@ -393,7 +393,6 @@ padding: 20px;
 font-size: 30px;
 width: 430px;
 line-height: 40px;
-margin: auto;
 text-transform: uppercase;
 text-align: center;
 font-weight: 700;
@@ -404,8 +403,6 @@ padding: 20px;
 .contact-left p{
 font-size: 16px;
 color: #000;
-text-align: center;
-padding: 10px 46px;
 text-transform: capitalize;
 font-weight: bold;
 line-height: 26px;
